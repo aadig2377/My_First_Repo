@@ -1,0 +1,23 @@
+.Nav{
+     background-color: beige;
+     text-align: center;
+
+}
+
+.Buttons{
+     display: inline-block;
+     padding: 5px 40px;
+     background-color: wheat;
+  
+}
+
+.SecondaryInfo{
+     width:29%;
+     float:left;
+     background-color: white;
+}
+
+.name{
+    Margin:0 auto;
+    text-align: center;
+}
